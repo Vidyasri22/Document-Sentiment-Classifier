@@ -87,3 +87,14 @@ Each model was evaluated using **training and testing accuracy** to compare perf
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Document-Sentiment-Classifier.git
+
+2. Navigate to project directory:
+   ```bash
+   cd Document-Sentiment-Classifie
+   
+3. Open the Jupyter notebook:
+   ```bash
+   jupyter notebook
+
+4. Run GUMMADI_VIDYA SRI_PROJECT.ipynb
+
